@@ -1,0 +1,61 @@
+
+#head1{
+    font-family: fangsong;background-color: rgba(219, 181, 154, 0.85);
+}
+#inputName{
+   
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+#inputEmail{
+   
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+#inputSubject{
+   
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+#inputMessage{
+   
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+#btn{
+   
+border:0;
+box-shadow: none;
+}
+#igicon{
+    width:20px;
+    height:20px;
+}
